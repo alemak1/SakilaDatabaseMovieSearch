@@ -1,0 +1,32 @@
+
+*{
+	box-sizing: border-box;
+}
+
+
+a{
+	text-decoration: none;
+}
+
+ol,ul{
+	list-style-type: none;
+}
+
+body{
+	background-color: red;
+}
+
+
+.col{width:40%;} 
+			
+.col-left{ 
+	float:left; 
+	display: inline-block; 
+	background-color: red;
+} 
+		
+.col-right{ 
+	float:right; 
+	display: inline-block; 
+	background-color:blue;
+} 
